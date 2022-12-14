@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=550&lines=Hi,+👋🏽+I'm+Emmanuel+Umeilechukwu" alt="Typing SVG" /></a></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Emmanuel+Umeilechukwu" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate web developer from Lagos, Nigeria.</h3>
 
 
