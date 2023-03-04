@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **projects with other developers**
 
-- 📫 How to reach me **Emmanuel.umeile@gmail.com**
+- 📫 How to reach me **Emmanuel.umeile.work@gmail.com**
 
 
 
