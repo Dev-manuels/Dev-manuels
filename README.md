@@ -5,15 +5,12 @@
  -->
  
 ##
-<p>
+<p  align='left'>
+	<img alt="Coding" width='400'src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 	<br>
 </p>
 
-<p>
-	<img align='right' alt="Coding" width='400'src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
-	<br>
-</p>
-
+<p  align='right'>
 ## 🙋 About Me
 
 
@@ -27,7 +24,6 @@
 
 - ⚡ Fun fact **It only gets better**
 
-<p>
 	<br>
 </p>
 
