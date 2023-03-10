@@ -10,9 +10,7 @@
 	<br>
 </p>
 
-<p  align='right'>
 ## 🙋 About Me
-
 
 - 🔭 I’m currently working on **projects with C, CSS, HTML, Javascript, MySQL, PHP, and Python**
 
@@ -24,8 +22,6 @@
 
 - ⚡ Fun fact **It only gets better**
 
-	<br>
-</p>
 
 ##
 
