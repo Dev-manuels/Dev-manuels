@@ -3,6 +3,10 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-manuels" /> </p>
  -->
+ 
+##
+
+<img align='right' alt="Coding" width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 
 ## 🙋 About Me
 
@@ -17,6 +21,9 @@
 
 - ⚡ Fun fact **It only gets better**
 
+<p> </p>
+
+##
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
