@@ -73,7 +73,10 @@
 ## 
 <h2>📊 GITHUB STATS</h2>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="dev-manuels" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="dev-manuels" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
+##
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
+
+##
