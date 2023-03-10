@@ -1,20 +1,21 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Emmanuel+Umeilechukwu" alt="Typing SVG" /></a></h1>
-<h3 align="center">A passionate web developer from Lagos, Nigeria.</h3>
+<h3 align="center">A passionate Software Engineer from Lagos, Nigeria.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-manuels" /> </p>
 
 
 ## 🙋 About Me
 
 
-- 🔭 I’m currently working on **projects with CSS, PHP and MySQL**
+- 🔭 I’m currently working on **projects with C, CSS, HTML, Javascript, MySQL, PHP, and Python**
 
 - 🌱 I’m currently learning more of **Javascript and Python**
 
-- 👯 I’m looking to collaborate on **projects with other developers**
+- 👯 I’m open to collaborate on **projects with other developers**
 
 - 📫 How to reach me **Emmanuel.umeile.work@gmail.com**
 
+- ⚡ Fun fact **It only gets better**
 
 
 <h3 align="left">Languages and Tools:</h3>
