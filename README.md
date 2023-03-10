@@ -5,6 +5,9 @@
  -->
  
 ##
+<p>
+	<br>
+</p>
 
 <img align='right' alt="Coding" width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif'></img>
 
@@ -21,7 +24,9 @@
 
 - ⚡ Fun fact **It only gets better**
 
-<p> </p>
+<p>
+	<br>
+</p>
 
 ##
 
@@ -56,6 +61,8 @@
 	</a>
 </p>
 
+##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -63,9 +70,10 @@
 <a href="https://linkedin.com/in/dev-manuels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umeilechukwu Emmanuel" height="30" width="40" /></a>
 </p>
 
-## 📊 Github Stats
+## 
+<h2>📊 GITHUB STATS</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="dev-manuels" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="dev-manuels" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
 
