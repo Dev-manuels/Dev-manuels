@@ -1,8 +1,6 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ed412c&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Emmanuel+Umeilechukwu" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Software Engineer from Lagos, Nigeria.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-manuels" /> </p>
- -->
  
 ##
 <p  align='left'>
@@ -75,3 +73,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
 
 ##
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-manuels" /> </p>
+
+##
+
