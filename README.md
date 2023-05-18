@@ -74,7 +74,7 @@
 
 ##
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-manuels" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=ed412c&style=flat" alt="Dev-manuels" /> </p>
 
 ##
 
