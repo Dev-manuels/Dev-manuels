@@ -66,13 +66,14 @@
 ## 
 <h2>📊 GITHUB STATS</h2>
 
+<!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="dev-manuels" /></p>
 
 ##
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
 
-##
+## -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=ed412c&style=flat" alt="Dev-manuels" /> </p>
 
