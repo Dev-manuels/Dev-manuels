@@ -57,25 +57,27 @@
 ##
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
+<p align="left">
 <a href="https://twitter.com/dev_manuels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_manuels" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev-manuels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umeilechukwu Emmanuel" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=ed412c&style=flat" alt="Dev-manuels profile-views" />
 </p>
 
 ## 
 <h2>📊 GITHUB STATS</h2>
 
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="dev-manuels" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&theme=transparent" alt="dev-manuels github stats" /></p>
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="dev-manuels" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&hide_progress=true&theme=transparent" alt="dev-manuels top-langs" /></p>
 
-## -->
+##
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-manuels1&label=Profile%20views&color=ed412c&style=flat" alt="Dev-manuels" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-manuels&theme=transparent" alt="Dev-manuels streak-stat" /></p>
+
 
 ##
 
