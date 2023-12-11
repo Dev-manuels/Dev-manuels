@@ -10,7 +10,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **projects with C, CSS, HTML, Javascript, MySQL, PHP, and Python**
+- 🔭 I’m currently working on **projects with CSS, HTML, Javascript, MySQL, PHP, and Python**
 
 - 🌱 I’m currently learning more of **Javascript and Python**
 
